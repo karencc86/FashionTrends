@@ -31,6 +31,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn)
 ❖Market trends for different materials: The bar chart shows that some materials, such as organic cotton and bamboo, are mostly on an upward trend, while others, such as vegan leather, are stable; this suggests that certain eco-friendly materials are gaining popularity in the market.
 
 🧐☝🏼️ SUGGESTIONS
+
 ❖Promoting the use of materials that are widely accepted in the market, such as organic cotton and bamboo, which are experiencing strong growth, should be a priority for sustainable fashion companies. It is recommended that more product lines be developed using these materials in order to align with market preferences.
 
 ❖Adjust pricing policy according to the type of material; given that sustainable products tend to have higher prices, it is important to conduct a competitive pricing study and offer more affordable options to increase the reach of eco-friendly products among consumers.
