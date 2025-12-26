@@ -10,17 +10,24 @@ This dataset was taken from the Kaggle database to perform exploratory data anal
 Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 📈 OBJECTIVES
+
 ❖ General objective
+
 -To analyze current trends in sustainable fashion in the period 2010-2024, focusing on the ecological practices adopted by the industry to reduce its environmental impact.
 
 ❖ Specific objectives
+
 -Identify the most commonly used eco-friendly materials and sustainable technologies in fashion production, such as recycled, organic, or low environmental impact fabrics.
+
 -Analyze the variability and distribution of carbon footprints in different countries to identify patterns of environmental impact by region.
+
 -Evaluate the relationship between countries, sustainable certifications, and the implementation of recycling programs to determine which regions are leading the way in eco-friendly initiatives.
 
 📊 FINDINGS
 ❖ Low correlation between numerical environmental variables: the correlation matrix shows that numerical variables such as water use, carbon footprint, waste production, and average price are not strongly correlated with each other. This suggests that each of these variables behaves independently within the context of sustainable fashion, and there is no clear linear relationship between them.
+
 ❖Price differences between sustainable and non-sustainable materials: The violin chart shows that the average prices of sustainable materials vary significantly compared to non-sustainable materials; some materials such as organic cotton and recycled polyester show higher prices in eco-friendly products.
+
 ❖Market trends for different materials: The bar chart shows that some materials, such as organic cotton and bamboo, are mostly on an upward trend, while others, such as vegan leather, are stable; this suggests that certain eco-friendly materials are gaining popularity in the market.
 
 🧐☝🏼️ SUGGESTIONS
