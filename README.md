@@ -3,13 +3,13 @@
 🌱🌿 Sustainable Fashion: Eco-Friendly Trends (2010 – 2024)
 This project uses a quantitative and exploratory approach to analyze the dataset called “ms,” which contains information on different aspects of sustainable fashion from 2010  to 2024.
 
-📚 ## CONTEXT
+## 📚 CONTEXT
 This dataset was taken from the Kaggle database to perform exploratory data analysis and analyze the socio-environmental impact of the fashion industry in terms of sustainability.
 
-🛠️ ## LIBRARIES
+## 🛠️ LIBRARIES
 Python (Pandas, Numpy, Matplotlib, Seaborn)
 
-📈 *OBJECTIVES*
+## 📈 OBJECTIVES
 
 ❖ General objective
 
@@ -23,7 +23,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 -Evaluate the relationship between countries, sustainable certifications, and the implementation of recycling programs to determine which regions are leading the way in eco-friendly initiatives.
 
-📊 *FINDINGS*
+## 📊 FINDINGS
 
 ❖ Low correlation between numerical environmental variables: the correlation matrix shows that numerical variables such as water use, carbon footprint, waste production, and average price are not strongly correlated with each other. This suggests that each of these variables behaves independently within the context of sustainable fashion, and there is no clear linear relationship between them.
 
@@ -31,7 +31,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 ❖Market trends for different materials: The bar chart shows that some materials, such as organic cotton and bamboo, are mostly on an upward trend, while others, such as vegan leather, are stable; this suggests that certain eco-friendly materials are gaining popularity in the market.
 
-🧐☝🏼️ *SUGGESTIONS*
+## 🧐☝🏼️ SUGGESTIONS
 
 ❖Promoting the use of materials that are widely accepted in the market, such as organic cotton and bamboo, which are experiencing strong growth, should be a priority for sustainable fashion companies. It is recommended that more product lines be developed using these materials in order to align with market preferences.
 
