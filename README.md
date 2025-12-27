@@ -3,10 +3,10 @@
 🌱🌿 Sustainable Fashion: Eco-Friendly Trends (2010 – 2024)
 This project uses a quantitative and exploratory approach to analyze the dataset called “ms,” which contains information on different aspects of sustainable fashion from 2010  to 2024.
 
-📚 ##CONTEXT
+📚 ## CONTEXT
 This dataset was taken from the Kaggle database to perform exploratory data analysis and analyze the socio-environmental impact of the fashion industry in terms of sustainability.
 
-🛠️ ##LIBRARIES
+🛠️ ## LIBRARIES
 Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 📈 *OBJECTIVES*
